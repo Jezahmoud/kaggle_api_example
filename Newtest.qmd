@@ -1,0 +1,32 @@
+---
+title: "Newtest"
+format: revealjs
+editor: visual
+---
+
+## Quarto
+
+New group
+
+<https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+# Jeza
+
+## Lujain
+
+# 
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+3+5
+```
